@@ -24,4 +24,4 @@ function isAnagram(word1, word2) {
     return true;
 }
 
-isAnagram("patata", "tatapaz")
+isAnagram("patata", "tapa")
